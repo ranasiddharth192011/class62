@@ -1,0 +1,43 @@
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    width: 20%;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.img-responsive {
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 80px;
+}
